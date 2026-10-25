@@ -1,9 +1,9 @@
 {
   "name": "@sfmc-bds/module-area",
-  "version": "0.2.1",
-  "packageManager": "pnpm@10.8.0",
+  "version": "0.3.0",
+  "packageManager": "pnpm@12.15.0",
   "type": "module",
-  "description": "SAPI module: 空间微内核",
+  "description": "SAPI module: 区域系统",
   "license": "ISC",
   "repository": "git+https://github.com/Tanya7z/sfmc-module-area.git",
   "main": "sapi/src/index.ts",

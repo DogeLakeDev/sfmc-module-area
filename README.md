@@ -1,6 +1,6 @@
 # @sfmc-bds/module-area
 
-Wave A official SFMC module: **area** (空间微内核).
+Wave A official SFMC module: **area** .
 
 ## Develop
 
